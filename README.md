@@ -1,6 +1,6 @@
 # Hi there! I'm Jaehun Kim 👋
 
-## I'm good at
+## 🦾 I'm good at
 - Python
 - Javascript/HTML/CSS
 - React
