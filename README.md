@@ -6,7 +6,7 @@
 - React
 
 ## 🌱 I’m currently learning
-- Flutter
+- React Native
 
 ## 📫 How to reach me
 - wogns3623@gmail.com
