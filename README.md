@@ -1,12 +1,17 @@
 # Hi there! I'm Jaehun Kim 👋
 
-## 🦾 I'm good at
-- Python
+## 🔭 I’m currently working on ...
+- Typescript
+- NestJS
+- Sequelize
+- BullMQ
+
+## 🌱 I'm interested in
 - Javascript/HTML/CSS
 - React
-
-## 🌱 I’m currently learning
 - React Native
+- Python
+- complier? (behind language)
 
 ## 📫 How to reach me
 - wogns3623@gmail.com
