@@ -1,6 +1,6 @@
 # Hi there! I'm Jaehun Kim 👋
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently using ...
 - Typescript
 - NestJS
 - Sequelize
