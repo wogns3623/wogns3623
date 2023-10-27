@@ -7,11 +7,11 @@
 - BullMQ
 
 ## 🌱 I'm interested in
-- Javascript/HTML/CSS
 - React
 - React Native
 - Python
 - complier? (behind language)
+- [Jai language](https://www.youtube.com/watch?v=TH9VCN6UkyQ&list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO&index=1&ab_channel=JonathanBlow)
 
 ## 📫 How to reach me
 - wogns3623@gmail.com
